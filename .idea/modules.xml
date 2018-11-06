@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-login-internationalized.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-login-internationalized.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-login-internationalized_main.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-login-internationalized_main.iml" group="spring-login-internationalized" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spring-login-internationalized_test.iml" filepath="$PROJECT_DIR$/.idea/modules/spring-login-internationalized_test.iml" group="spring-login-internationalized" />
+    </modules>
+  </component>
+</project>
